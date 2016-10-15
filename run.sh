@@ -1,0 +1,1 @@
+gcc -g -W main.c -o exe_file
